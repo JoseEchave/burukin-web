@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://burukin.com'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Be Burukin'
 theme = 'netlify-basic'
